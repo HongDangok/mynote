@@ -1,0 +1,22 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Note paper with folded corner -->
+  <rect x="192" y="128" width="640" height="768" rx="32" fill="#4A90E2"/>
+  
+  <!-- Folded corner shadow -->
+  <path d="M 192 128 L 192 256 L 320 128 Z" fill="#357ABD"/>
+  
+  <!-- White paper inside -->
+  <rect x="256" y="192" width="512" height="640" rx="20" fill="#FFFFFF"/>
+  
+  <!-- Lines on note -->
+  <line x1="320" y1="280" x2="704" y2="280" stroke="#4A90E2" stroke-width="28" stroke-linecap="round"/>
+  <line x1="320" y1="400" x2="704" y2="400" stroke="#4A90E2" stroke-width="28" stroke-linecap="round"/>
+  <line x1="320" y1="520" x2="640" y2="520" stroke="#4A90E2" stroke-width="28" stroke-linecap="round"/>
+  <line x1="320" y1="640" x2="704" y2="640" stroke="#4A90E2" stroke-width="28" stroke-linecap="round"/>
+  <line x1="320" y1="760" x2="576" y2="760" stroke="#4A90E2" stroke-width="28" stroke-linecap="round"/>
+  
+  <!-- Pen icon -->
+  <path d="M 640 800 L 768 928 L 704 992 L 576 864 Z" fill="#FF6B6B"/>
+  <path d="M 768 928 L 832 992 L 768 1056 L 704 992 Z" fill="#FF5252"/>
+  <circle cx="672" cy="832" r="20" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="512" cy="512" r="512" fill="#4A90E2"/>
+  
+  <!-- Note paper -->
+  <rect x="256" y="192" width="512" height="640" rx="24" fill="#FFFFFF"/>
+  
+  <!-- Folded corner -->
+  <path d="M 256 192 L 256 320 L 384 192 Z" fill="#E8E8E8"/>
+  <path d="M 256 192 L 384 192 L 256 320" stroke="#D0D0D0" stroke-width="2" fill="none"/>
+  
+  <!-- Lines on note -->
+  <line x1="320" y1="280" x2="704" y2="280" stroke="#4A90E2" stroke-width="24" stroke-linecap="round"/>
+  <line x1="320" y1="360" x2="704" y2="360" stroke="#4A90E2" stroke-width="24" stroke-linecap="round"/>
+  <line x1="320" y1="440" x2="640" y2="440" stroke="#4A90E2" stroke-width="24" stroke-linecap="round"/>
+  <line x1="320" y1="520" x2="704" y2="520" stroke="#4A90E2" stroke-width="24" stroke-linecap="round"/>
+  <line x1="320" y1="600" x2="576" y2="600" stroke="#4A90E2" stroke-width="24" stroke-linecap="round"/>
+  
+  <!-- Pen icon -->
+  <path d="M 640 640 L 768 768 L 704 832 L 576 704 Z" fill="#FF6B6B"/>
+  <path d="M 768 768 L 832 832 L 768 896 L 704 832 Z" fill="#FF5252"/>
+  <circle cx="672" cy="672" r="16" fill="#FFFFFF"/>
+</svg>

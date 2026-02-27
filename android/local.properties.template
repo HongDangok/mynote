@@ -1,0 +1,13 @@
+## Android SDK Location
+## Uncomment and update the path below to point to your Android SDK location
+## Common locations:
+## Windows: C:\Users\<YourUsername>\AppData\Local\Android\Sdk
+## macOS: ~/Library/Android/sdk
+## Linux: ~/Android/Sdk
+
+# sdk.dir=C\:\\Users\\YourUsername\\AppData\\Local\\Android\\Sdk
+
+## Or use ANDROID_HOME environment variable instead
+## Set it in your system environment variables or PowerShell:
+## $env:ANDROID_HOME = "C:\Users\YourUsername\AppData\Local\Android\Sdk"
+
